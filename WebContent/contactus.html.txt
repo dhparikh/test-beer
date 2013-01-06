@@ -1,0 +1,14 @@
+/*
+Added by DHP: 1/1/2013 Contact us file shows all the contacts from compnay
+*/
+
+we can be reached here
+
+	Edison, NJ
+
+
+Contacts:
+
+Name			Phone 			Email
+PersonA			2323434324		personA@mymail.com
+PersonB			1231231233		personB@yourmail.com
