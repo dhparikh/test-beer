@@ -3,13 +3,12 @@ Welcome to the Great Beer Makers!
 
 We make following beers
 	
-	Stella
-	Budlight
 	Corona
 	Beer1
 	beer2
 	beer3
 	Heineken
+	Beer440
 	New Castle
 	Narragensett
 	Blue Moon Winter
