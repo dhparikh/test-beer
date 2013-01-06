@@ -6,9 +6,11 @@ We make following beers
 	Stella
 	Budlight
 	Corona
+	Beer1
+	beer2
+	beer3
 	Heineken
-
 	New Castle
 	Narragensett
-	Blue Moon
+	Blue Moon Winter
 	
