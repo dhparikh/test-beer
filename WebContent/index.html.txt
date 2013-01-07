@@ -2,7 +2,7 @@ Welcome to the Great Beer Makers!
 
 
 We make following beers
-	
+	TestBeer
 	Corona
 	Beer1
 	beer2
@@ -12,4 +12,5 @@ We make following beers
 	New Castle
 	Narragensett
 	Blue Moon Winter
+	Sam Adams
 	
